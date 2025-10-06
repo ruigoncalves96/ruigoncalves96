@@ -21,10 +21,15 @@ Now, I’m embracing this new chapter with curiosity and persistence — always 
 
 ---
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,vscode,git,github,bash,linux,apple)](https://skillicons.dev)  
+### 🦾 Skills
+[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)  
 
-*(More coming soon: Python, Docker, Web...)*  
+### 🛠️ Tools & Technologies
+[![My Skills](https://skillicons.dev/icons?i=vim,vscode,git,github,bash,linux,apple)](https://skillicons.dev)  
+
   
+*(More coming soon: Python, Docker, Web...)*  
+
 ---
 
 ## 📚 42 Projects  
