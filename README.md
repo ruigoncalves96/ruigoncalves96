@@ -1,8 +1,5 @@
 <h1 align="center">👋 Hey, I'm Rui Gonçalves</h1>  
 
-<div align="center">
-  <div align="left" style="display:inline-block; text-align:left; max-width:8000px;">
-
 🎓 Student at **42 Lisbon**  
 💻 Passionate about programming, algorithms and challenges.  
 🚀 Always learning, always growing.   
