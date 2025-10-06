@@ -50,7 +50,7 @@ Now, I’m embracing this new chapter with curiosity and persistence — always 
 
 ### 🏆 Rank 4  
 - 🌐 [**net_practice**](https://github.com/ruigoncalves96/net_practice) – Networking exercises on IPs & routing.  
-- 💡 [**miniRT**](https://github.com/ruigoncalves96/miniRT) – Ray tracer with lights, materials, and shadows.
+- 💡 [**miniRT**](https://github.com/redgtxt/miniRT) – Ray tracer with lights, materials, and shadows.
     
     (***and still going...***)
 
