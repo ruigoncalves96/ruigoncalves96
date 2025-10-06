@@ -1,33 +1,31 @@
-<h1 align="center">👋 Hey, I'm Rui Gonçalves</h1>  
+# 👋🏼 Hey, Rui Gonçalves here!
 
-🎓 Student at **42 Lisbon**  
+### Currently... 
+🎓 Student at **42 Lisbon**
+
+## ✨ About Me ✨
+
+Hi, I’m Rui 👋🏼   
+  
+I’m currently studying at 42 Lisbon, diving into the world of programming and software development. 
+Before joining 42, I worked as an Audio Engineer in broadcast television, with no prior experience in coding.
+
+Now, I’m embracing this new chapter with curiosity and persistence — always eager to learn more, face new challenges, and grow as a developer. 🚀
+
+
 💻 Passionate about programming, algorithms and challenges.  
 🚀 Always learning, always growing.   
 🎧 Former **Audio Engineer in Broadcast** turned developer.  
 
-  </div>
-</div>
-
 ---
-
-<h2 align="center">🛠️ Tech Stack</h2>  
-<div align="center">
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,vim,vscode,git,github,bash,linux,apple)](https://skillicons.dev)  
 
 *(More coming soon: Python, Docker, Web...)*  
   
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruigoncalves96&layout=compact&theme=tokyonight" alt="langs"/>
-
-</div>
-
-
 ---
 
-<h2 align="center">📚 42 Projects</h2>  
-<div align="center">
-  <div align="left" style="display:inline-block; text-align:left; max-width:800px;">
+## 📚 42 Projects  
 
 ### 🥉 Rank 0 / 1  
 - 🧱 [**libft**](https://github.com/ruigoncalves96/42_libft) – Custom C library of basic functions.  
@@ -46,37 +44,23 @@
 ### 🏆 Rank 4  
 - 🌐 [**net_practice**](https://github.com/ruigoncalves96/net_practice) – Networking exercises on IPs & routing.  
 - 💡 [**miniRT**](https://github.com/ruigoncalves96/miniRT) – Ray tracer with lights, materials, and shadows.
-
-  <div align="center">
     
     (***and still going...***)
 
-    </div>
-
-  </div>
-</div>
-
 ---
 
-<h2 align="center">🌱 About Me</h2>  
-<div align="center">
-  <div align="left" style="display:inline-block; text-align:left; max-width:800px;">
+## 🌱 About Me  
 
 - 🔭 Always exploring new challenges  
 - 🤝 Teamwork & collaboration oriented  
 - 🎯 Goal: grow as a developer and make real impact  
-
-  </div>
-</div>
+- 🌿 Tech guy who also loves Music, Sports and Nature
 
 ---
 
-<h2 align="center">📫 Contact</h2>  
-<div align="center">
+## 📫 Contact  
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rui-aa-goncalves)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rui.gonc.11@hotmail.com)  
-
-</div>
 
 ---
 
