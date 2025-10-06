@@ -1,19 +1,21 @@
 # 👋🏼 Hey, Rui Gonçalves here!
 
 ### Currently... 
-🎓 Student at **42 Lisbon**
+🎓 Student at **42 Lisbon**  
+💡 Mainly learning C and C++, and other basic tools  
+✍🏼 Working on [**miniRT**](https://github.com/ruigoncalves96/miniRT) project (milestone 5)  
 
 ## ✨ About Me ✨
 
 Hi, I’m Rui 👋🏼   
   
 I’m currently studying at 42 Lisbon, diving into the world of programming and software development. 
-Before joining 42, I worked as an Audio Engineer in broadcast television, with no prior experience in coding.
+Before joining 42, with no prior experience in coding, I worked as an Audio Engineer in broadcast television.
 
 Now, I’m embracing this new chapter with curiosity and persistence — always eager to learn more, face new challenges, and grow as a developer. 🚀
 
 
-💻 Passionate about programming, algorithms and challenges.  
+💻 Passionate about programming and new challenges.  
 🚀 Always learning, always growing.   
 🎧 Former **Audio Engineer in Broadcast** turned developer.  
 
