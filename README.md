@@ -2,7 +2,7 @@
 
 ### Currently... 
 🎓 Student at **42 Lisbon**  
-💡 Mainly learning C and C++, and other basic tools  
+💡 Mainly learning C and C++  
 ✍🏼 Working on [**miniRT**](https://github.com/ruigoncalves96/miniRT) project (milestone 5)  
 
 ## ✨ About Me ✨
