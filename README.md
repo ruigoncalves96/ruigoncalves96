@@ -33,18 +33,18 @@
   <div align="left" style="display:inline-block; text-align:left; max-width:800px;">
 
 ### 🥉 Rank 0 / 1  
-- 🧱 [**libft**](https://github.com/ruigoncalves96/libft) – Custom C library of basic functions.  
-- 📝 [**ft_printf**](https://github.com/ruigoncalves96/ft_printf) – Reimplementation of `printf`.  
-- 📖 [**get_next_line**](https://github.com/ruigoncalves96/get_next_line) – Read files line by line.  
+- 🧱 [**libft**](https://github.com/ruigoncalves96/42_libft) – Custom C library of basic functions.  
+- 📝 [**ft_printf**](https://github.com/ruigoncalves96/42_ft_printf) – Reimplementation of `printf`.  
+- 📖 [**get_next_line**](https://github.com/ruigoncalves96/42_get_next_line) – Read files line by line.  
 
 ### 🥈 Rank 2  
-- 🎮 [**so_long**](https://github.com/ruigoncalves96/so_long) – 2D game using MiniLibX.
-- 🌀 [**push_swap**](https://github.com/ruigoncalves96/push_swap) – Sorting algorithm with two stacks.
-- 🔔 [**minitalk**](https://github.com/ruigoncalves96/minitalk) – Client/server communication with UNIX signals.  
+- 🎮 [**so_long**](https://github.com/ruigoncalves96/42_so_long) – 2D game using MiniLibX.
+- 🌀 [**push_swap**](https://github.com/ruigoncalves96/42_push_swap) – Sorting algorithm with two stacks.
+- 🔔 [**minitalk**](https://github.com/ruigoncalves96/42_minitalk) – Client/server communication with UNIX signals.  
 
 ### 🏅 Rank 3  
 - 🐚 [**minishell**](https://github.com/ruigoncalves96/minishell) – Minimal shell implementation in C.  
-- 🍝 [**philosophers**](https://github.com/ruigoncalves96/philosophers) – The dining philosophers concurrency problem.  
+- 🍝 [**philosophers**](https://github.com/ruigoncalves96/42_philosophers) – The dining philosophers concurrency problem.  
 
 ### 🏆 Rank 4  
 - 🌐 [**net_practice**](https://github.com/ruigoncalves96/net_practice) – Networking exercises on IPs & routing.  
