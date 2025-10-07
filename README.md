@@ -15,7 +15,7 @@ Before joining 42, with no prior experience in coding, I worked as an Audio Engi
 Now, I’m embracing this new chapter with curiosity and persistence — always eager to learn more, face new challenges, and grow as a developer. 🚀
 
 
-💻 Passionate about programming and new challenges.  
+💻 Diving into programming and new challenges.  
 🚀 Always learning, always growing.   
 🎧 Former **Audio Engineer in Broadcast** turned developer.  
 
