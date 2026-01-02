@@ -3,7 +3,7 @@
 ### Currently... 
 🎓 Student at **42 Lisbon**  
 💡 Mainly learning C and C++  
-✍🏼 Just delivered [**miniRT**](https://github.com/ruigoncalves96/miniRT) project (milestone 4) -> starting C++
+✍🏼 Currenlty in milestone 5 -> starting C++
 
 ## ✨ About Me ✨
 
@@ -28,7 +28,7 @@ Now, I’m embracing this new chapter with curiosity and persistence — always 
 [![My Skills](https://skillicons.dev/icons?i=vim,vscode,git,github,bash,linux,apple)](https://skillicons.dev)  
 
   
-*(More coming soon: Python, Docker, Web...)*  
+  *(More coming soon: Python, Docker, Web...)*  
 
 ---
 
@@ -48,11 +48,15 @@ Now, I’m embracing this new chapter with curiosity and persistence — always 
 - 🐚 [**minishell**](https://github.com/ruigoncalves96/minishell) – Minimal shell implementation in C.  
 - 🍝 [**philosophers**](https://github.com/ruigoncalves96/42_philosophers) – The dining philosophers concurrency problem.  
 
-### 🏆 Rank 4  
+### 🏅 Rank 4  
 - 🌐 [**net_practice**](https://github.com/ruigoncalves96/net_practice) – Networking exercises on IPs & routing.  
 - 💡 [**miniRT**](https://github.com/redgtxt/miniRT) – Ray tracer with lights, materials, and shadows.
-    
-    (***and still going...***)
+- ⚙️ [**CPP Modules 00-04**](https://github.com/ruigoncalves96/CPP-Modules) - Introduction to C++ mechanics.
+
+### 🎖️ Rank 5
+- ⚙️ [**CPP Modules 05-09**](https://github.com/ruigoncalves96/CPP-Modules) - Introduction to C++ mechanics.
+
+  (***and still going...***)
 
 ---
 
