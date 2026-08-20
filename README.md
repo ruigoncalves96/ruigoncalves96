@@ -22,10 +22,10 @@ Now, I’m embracing this new chapter with curiosity and persistence — always 
 ---
 
 ### 🦾 Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,nestjs,nextjs)](https://skillicons.dev)  
 
 ### 🛠️ Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=vim,vscode,git,github,bash,linux,apple)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=notion,vim,vscode,git,github,bash,linux,ubuntu,apple,nginx,docker,prisma,react)](https://skillicons.dev)  
 
   
   *(More coming soon: Python, Docker, Web...)*  
