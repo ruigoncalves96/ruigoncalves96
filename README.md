@@ -34,9 +34,11 @@ Here you'll find my 42 projects, done under the Common Core route, as well as pe
 ## 🦾 Skills & Tools
 
 **Languages & Frameworks**
+
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nestjs,postgres,prisma)](https://skillicons.dev)
 
 **Tools & Infrastructure**
+
 [![My Skills](https://skillicons.dev/icons?i=docker,git,github,bash,linux,ubuntu,apple,nginx,vim,vscode,notion)](https://skillicons.dev)
 
 ---
