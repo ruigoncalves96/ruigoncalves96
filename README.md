@@ -1,80 +1,114 @@
-# 👋🏼 Hey, Rui Gonçalves here!
+<div align="center">
 
-### Currently... 
-🎓 Student at **42 Lisbon**  
-💡 Mainly learning C and C++  
-✍🏼 Currenlty in milestone 5 -> starting C++
+# Hey, Rui Gonçalves here!
 
-## ✨ About Me ✨
+**Former Broadcast Audio Engineer → Software Developer**
+🎓 42 Lisbon — Common Core graduate
 
-Hi, I’m Rui 👋🏼   
-  
-I’m currently studying at 42 Lisbon, diving into the world of programming and software development. 
-Before joining 42, with no prior experience in coding, I worked as an Audio Engineer in broadcast television.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rui-aa-goncalves)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rui.gonc.11@hotmail.com)
+![Common Core](https://img.shields.io/badge/42_Common_Core-Completed-success)
 
-Now, I’m embracing this new chapter with curiosity and persistence — always eager to learn more, face new challenges, and grow as a developer. 🚀
-
-
-💻 Diving into programming and new challenges.  
-🚀 Always learning, always growing.   
-🎧 Former **Audio Engineer in Broadcast** turned developer.  
+</div>
 
 ---
 
-### 🦾 Skills
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,nestjs,nextjs)](https://skillicons.dev)  
+## Currently
 
-### 🛠️ Tools & Technologies
-[![My Skills](https://skillicons.dev/icons?i=notion,vim,vscode,git,github,bash,linux,ubuntu,apple,nginx,docker,prisma,react)](https://skillicons.dev)  
-
-  
-  *(More coming soon: Python, Docker, Web...)*  
+- 🎓 **42 Lisbon Common Core** completed
+- 🤖 Moving into AI specialization
+- 💼 Open to software engineering opportunities
 
 ---
 
-## 📚 42 Projects  
+## ✨ About Me
 
-### 🥉 Rank 0 / 1  
-- 🧱 [**libft**](https://github.com/ruigoncalves96/42_libft) – Custom C library of basic functions.  
-- 📝 [**ft_printf**](https://github.com/ruigoncalves96/42_ft_printf) – Reimplementation of `printf`.  
-- 📖 [**get_next_line**](https://github.com/ruigoncalves96/42_get_next_line) – Read files line by line.  
+I'm Rui — currently based in Lisbon, building a career in software development.
 
-### 🥈 Rank 2  
-- 🎮 [**so_long**](https://github.com/ruigoncalves96/42_so_long) – 2D game using MiniLibX.
-- 🌀 [**push_swap**](https://github.com/ruigoncalves96/42_push_swap) – Sorting algorithm with two stacks.
-- 🔔 [**minitalk**](https://github.com/ruigoncalves96/42_minitalk) – Client/server communication with UNIX signals.  
+Before 42, I had zero coding background and worked as an **Audio Engineer in broadcast television**. I joined 42 Lisbon to change that, and just wrapped up the Common Core: everything from a C library and a Unix shell to a ray tracer and a full-stack multiplayer web app. 
 
-### 🏅 Rank 3  
-- 🐚 [**minishell**](https://github.com/ruigoncalves96/minishell) – Minimal shell implementation in C.  
-- 🍝 [**philosophers**](https://github.com/ruigoncalves96/42_philosophers) – The dining philosophers concurrency problem.  
-
-### 🏅 Rank 4  
-- 🌐 [**net_practice**](https://github.com/ruigoncalves96/net_practice) – Networking exercises on IPs & routing.  
-- 💡 [**miniRT**](https://github.com/redgtxt/miniRT) – Ray tracer with lights, materials, and shadows.
-- ⚙️ [**CPP Modules 00-04**](https://github.com/ruigoncalves96/CPP-Modules) - Introduction to C++ mechanics.
-
-### 🎖️ Rank 5
-- ⚙️ [**CPP Modules 05-09**](https://github.com/ruigoncalves96/CPP-Modules) - Introduction to C++ mechanics.
-
-  (***and still going...***)
+Here you'll find my 42 projects, done under the Common Core route, as well as personal projects going forward.
 
 ---
 
-## 🌱 About Me  
+## 🦾 Skills & Tools
 
-- 🔭 Always exploring new challenges  
-- 🤝 Teamwork & collaboration oriented  
-- 🎯 Goal: grow as a developer and make real impact  
-- 🌿 Tech guy who also loves Music, Sports and Nature
+**Languages & Frameworks**
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,js,ts,react,nextjs,nestjs,postgres,prisma)](https://skillicons.dev)
 
----
-
-## 📫 Contact  
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rui-aa-goncalves)  [![Email](https://skillicons.dev/icons?i=gmail)](mailto:rui.gonc.11@hotmail.com)  
+**Tools & Infrastructure**
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,bash,linux,ubuntu,apple,nginx,vim,vscode,notion)](https://skillicons.dev)
 
 ---
 
-<h3 align="center">✨ “Code. Fail. Learn. Repeat.” ✨</h3>
+## 📚 42 Common Core — Project Log
 
+<details open>
+<summary><b>Rank 00–01</b></summary>
+<br>
 
+- 🧱 [**libft**](https://github.com/ruigoncalves96/42_libft) — Custom C library reimplementing libc + extra utility functions.
+- 📝 [**ft_printf**](https://github.com/ruigoncalves96/42_ft_printf) — Variadic reimplementation of `printf`.
+- 📖 [**get_next_line**](https://github.com/ruigoncalves96/42_get_next_line) — Read a file line by line, one file descriptor at a time.
+
+</details>
+
+<details>
+<summary><b>Rank 02</b></summary>
+<br>
+
+- 🎮 [**so_long**](https://github.com/ruigoncalves96/42_so_long) — 2D game using MiniLibX.
+- 🌀 [**push_swap**](https://github.com/ruigoncalves96/42_push_swap) — Sorting a stack with a minimal instruction set using two stacks.
+- 🔔 [**minitalk**](https://github.com/ruigoncalves96/42_minitalk) — Client/server communication over UNIX signals only.
+
+</details>
+
+<details>
+<summary><b>Rank 03</b></summary>
+<br>
+
+- 🐚 [**minishell**](https://github.com/ruigoncalves96/minishell) — POSIX-ish shell: parsing, pipes, redirections, builtins, signal handling.
+- 🍝 [**philosophers**](https://github.com/ruigoncalves96/42_philosophers) — The dining philosophers problem, threads and mutexes.
+
+</details>
+
+<details>
+<summary><b>Rank 04</b></summary>
+<br>
+
+- 🌐 [**net_practice**](https://github.com/ruigoncalves96/42_NetPractice) — IP addressing, subnetting, and routing exercises.
+- 💡 [**miniRT**](https://github.com/redgtxt/miniRT) — Ray tracer: lights, materials, shadows, from-scratch vector math.
+- ⚙️ [**CPP Modules 00–04**](https://github.com/ruigoncalves96/CPP-Modules) — C to C++: classes, OOP basics, inheritance, polymorphism, abstract classes.
+
+</details>
+
+<details>
+<summary><b>Rank 05</b></summary>
+<br>
+
+- ⚙️ [**CPP Modules 05–09**](https://github.com/ruigoncalves96/CPP-Modules) — Exceptions, templates, STL containers, and a Ford-Johnson merge-insertion sort implementation.
+- 🌍 [**webserv**](https://github.com/moist-bread/webserv) — HTTP server built from scratch in C++, config-file driven, handling GET/POST/DELETE and CGI.
+- 🐳 [**Inception**](https://github.com/ruigoncalves96/inception) — System administration with Docker: NGINX (TLS), WordPress (php-fpm), and MariaDB as separate containers on a hand-built VM.
+
+</details>
+
+<details open>
+<summary><b>Rank 06</b></summary>
+<br>
+
+- 🏓 [**ft_transcendence**](https://github.com/bbento-a/ft_transcendence) — Capstone project: multiplayer web game with real-time gameplay. Full stack: TypeScript, React, Next.js, NestJS, Prisma, PostgreSQL, containerized with Docker Compose.
+
+</details>
+
+---
+
+## 🌱 Me
+
+- 🔭 Always exploring new challenges
+- 🤝 Comfortable both solo and in teamwork/collaboration projects
+- 🎯 Goal: grow as a developer and make real impact
+- 🎧 Music, sports, and the outdoors when I'm away from the keyboard
+
+---
+
+<h3 align="center">✨ "Code. Fail. Learn. Repeat." ✨</h3>
